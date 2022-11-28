@@ -2,17 +2,18 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "The program contains 5 games"
-classifiers =[ 
-    "Topic :: Software Development :: Build Tools",
-    "Topic :: Software Development :: Libraries :: Python Modules",
-    "Topic :: Games/Entertainment :: Puzzle Games"
-]
 authors = ["pavelisaew"]
-repository = "https://github.com/pavelisaew/python-project-49"
-readme = "README.md"
 packages = [
 { include = "brain_games" }
 ]
+
+classifiers = [
+    "Programming Language :: Python :: 3.8"
+]
+
+repository = "https://github.com/pavelisaew/python-project-49"
+readme = "README.md"
+
 
 [tool.poetry.dependencies]
 python = "^3.10"
