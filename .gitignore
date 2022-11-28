@@ -1,5 +1,12 @@
-.venv
-
+*.egg-info
+__pycache__
 dist/
-
-__pycache__/
+*.pyc
+.venv/
+.coverage
+coverage.xml
+.pytest_cache/
+.vim
+brain_games/__pycache__/__init__.cpython-38.pyc
+brain_games/scripts/__pycache__/__init__.cpython-38.pyc
+brain_games/scripts/__pycache__/brain_games.cpython-38.pyc
