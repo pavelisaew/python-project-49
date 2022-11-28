@@ -22,3 +22,23 @@ make install
 brain-even
 ```
 
+### Brain Calc Game:
+```sh
+brain-calc
+```
+
+### Brain Gcd Game:
+```sh
+brain-gcd
+```
+
+### Brain Progression Game:
+```sh
+brain-progression
+```
+
+### Brain Prime Game:
+```sh
+brain-prime
+```
+
