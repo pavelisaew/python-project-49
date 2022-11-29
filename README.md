@@ -43,10 +43,11 @@ brain-gcd
 brain-progression
 ```
 
-[![asciicast](https://asciinema.org/a/uFHF4bw3UrbVD6qhmP7kFWG6H.svg)(https://asciinema.org/a/uFHF4bw3UrbVD6qhmP7kFWG6H)
+[![asciicast](https://asciinema.org/a/uFHF4bw3UrbVD6qhmP7kFWG6H.svg)](https://asciinema.org/a/uFHF4bw3UrbVD6qhmP7kFWG6H)
 
 ### Brain Prime Game:
 ```sh
 brain-prime
 ```
-[![asciicast](https://asciinema.org/a/HwZ8pJfscwT9MLS9hndHD9D1o.svg)(https://asciinema.org/a/HwZ8pJfscwT9MLS9hndHD9D1o)
+
+[![asciicast](https://asciinema.org/a/HwZ8pJfscwT9MLS9hndHD9D1o.svg)](https://asciinema.org/a/HwZ8pJfscwT9MLS9hndHD9D1o)
